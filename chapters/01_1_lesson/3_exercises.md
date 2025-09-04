@@ -13,7 +13,7 @@ Create a new program called hello_world.py. You will use this file to write your
 Exercise 1
 It is a good idea to read this book in front of a computer so you can try out the examples as you go.
 
-1.1 - Whenever you are experimenting with a new feature, you should try to make mistakes. For example, in the “Hello, world!” program, what happens if you leave out one of the quotation marks? What if you leave out both? What if you spell print wrong?
+1.1 - Whenever you are experimenting with a new feature, you should try to make mistakes. For example, in the “Hello, world!” program, what happens if you leave out one of the quotation marks? What if you leave out both? What if you spell print wrong? 
 
 
 1.2 - This kind of experiment helps you remember what you read; it also helps when you are programming, because you get to know what the error messages mean. It is better to make mistakes now and on purpose than later and accidentally.
@@ -38,7 +38,7 @@ It is a good idea to read this book in front of a computer so you can try out th
 Exercise 2  
 Start the Python interpreter and use it as a calculator.
 
-2.1 - How many seconds are there in 42 minutes 42 seconds?
+2.1 - How many seconds are there in 42 minutes 42 seconds? 2520
 
 
 2.2 - How many miles are there in 10 kilometers? Hint: there are 1.61 kilometers in a mile.
