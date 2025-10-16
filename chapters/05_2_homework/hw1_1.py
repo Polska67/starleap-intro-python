@@ -4,7 +4,16 @@
 
 print("********** Homework 1 Exercise 1 **********")
 
-# Do your work for Exercise 1 here
+def print_tic_tac_toe():
+    v_row = (' '*2 + '|')*2 + ' '*2
+    h_row = '-'*8 
+    
+    print(v_row)
+    print(h_row)
+    print(h_row)
+    print(v_row)
+   
+print_tic_tac_toe()
 
 print("Homework 1 Exercise 1: Not implemented") # Delete this line when you write your code!
 
