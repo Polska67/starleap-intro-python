@@ -73,6 +73,8 @@ print("Ch 5 Exercise 3: Not implemented") # Delete this line when you write your
 
 print("********** Ch 5 Exercise 4 **********")
 
-# Do your work for Exercise 4 here.
+answer = "oh my god real spiderman"
+print(answer)
+
 
 print("Ch 5 Exercise 4: Not implemented") # Delete this line when you write your code!
