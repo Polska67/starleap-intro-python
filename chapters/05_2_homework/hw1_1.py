@@ -21,7 +21,21 @@ print("Homework 1 Exercise 1: Not implemented") # Delete this line when you writ
 
 print("********** Homework 1 Exercise 2 **********")
 
-# Do your work for Excercise 2 here
+name = input('what is your name? ')
+# print('Hi, ' + name + '!')
+
+# surname = input('what is your last name? ')
+# print('Hi, ' + name + ' ' + surname + '!')
+
+# month = input('which month were you born in? ')
+
+# day = input('number of date? ')
+
+# year = input('year of birth? ')
+
+# print(name + ' ' + surname + ' ' + 'was born on ' + month + ' ' + day + ' ' + year + '!')
+
+print(f"hi, {name}!")
 
 print("Homework 1 Exercise 2: Not implemented") # Delete this line when you write your code!
 
