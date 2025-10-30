@@ -3,17 +3,68 @@
 
 
 print("********** Ch 6 Exercise 1 **********")
+def math(): 
+    e = math.exp(1.0)
+    height = radius * math.sin(radians)
 
-print("""
-Type your work for Exercise 1 here
+def area(radius):
+    a = math.pi * radius**2
+    return a
+def absolute_value(x):
+    if x < 0:
+        return -x
+    else:
+        return x
+     
+def b(z):
+    prod = a(z, z)
+    print(z, prod)
+    return prod
 
-Ch 6 Exercise 1: Not implemented # Delete this line when you write your code!
-""")
+def a(x, y):
+    x = x + 1
+    return x * y
+
+def c(x, y, z):
+    total = x + y + z
+    square = b(total)**2
+    return square
+
+x = 1
+y = x + 1
+print(c(x, y+3, x+y))
+
+def ack(m, n):
+    if(m > 0):
+        return m + 1
+    if(m < 0):
+        return m - 1
+    if (n == 0):
+        return n - 1
+    if (n > 0): 
+        return n + 1
+    else: 
+        print("we were NOT supposed to get here")
+
+ack(3, 2)
+
+
+    
+
+
+
+    
+    
+
+
+
+# Ch 6 Exercise 1: Not implemented # Delete this line when you write your code!
 
 
 print("********** Ch 6 Exercise 2 **********")
 
-# Do your work for Excercise 2 here.
+  
+
 
 print("Ch 6 Exercise 2: Not implemented") # Delete this line when you write your code!
 
