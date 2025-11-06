@@ -72,10 +72,14 @@ print("Ch 6 Exercise 2: Not implemented") # Delete this line when you write your
 
 print("********** Ch 6 Exercise 3 **********")
 
-# Exercise 3 should be worked in a new file called palindrome.py
+def first(word):
+    return word[0]
 
+def last(word):
+    return word[-1]
 
-
+def middle(word):
+    return word[1:-1]
 print("********** Ch 6 Exercise 4 **********")
 
 # Do your work for Exercise 4 here.
